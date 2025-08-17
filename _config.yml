@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Alina Vrânceanu"
-  pronouns         : # example: "she/her"
-  bio              : # "Short biography for the left-hand sidebar"
+  pronouns         : "" # example: "she/her"
+  bio              : "" # "Short biography for the left-hand sidebar"
   location         : "Barcelona, Spain"
   employer         : "Autonomous University of Barcelona"
-  uri              : # URL
+  uri              : "" # URL
   email            : "alina.vranceanu@uab.cat" 
 
   # Academic websites
