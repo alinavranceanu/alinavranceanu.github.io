@@ -22,10 +22,10 @@ repository               : "alinavranceanu/alinavranceanu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : #"bio-photo.jpg"
+  avatar           : "profile.png"
   name             : "Alina Vrânceanu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "she/her"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Barcelona, Spain"
   employer         : "Autonomous University of Barcelona"
   uri              : # URL
