@@ -29,7 +29,7 @@ author:
   location         : "Barcelona, Spain"
   employer         : "Autonomous University of Barcelona"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alina.vranceanu@uab.cat" 
 
   # Academic websites
   academia         : # URL
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=a5rXflYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3008-9686"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
