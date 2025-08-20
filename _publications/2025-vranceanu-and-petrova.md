@@ -2,7 +2,7 @@
 title: "Welfare policy and immigration attitudes in Western Europe"
 collection: publications
 category: manuscripts
-permalink: /publications/2025-vranceanu-and-petrova
+permalink: /publication/2025-vranceanu-and-petrova
 excerpt: ''
 date: 2025-03-09
 venue: 'European Journal of Political Research'
