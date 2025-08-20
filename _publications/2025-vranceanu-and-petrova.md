@@ -1,5 +1,6 @@
 ---
 title: "Welfare policy and immigration attitudes in Western Europe"
+author: Vranceanu, Alina, and Bilyana Petrova
 collection: publications
 category: manuscripts
 permalink: /publication/2025-vranceanu-and-petrova
