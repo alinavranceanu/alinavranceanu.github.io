@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/2024-Dennison-Vranceanu
 date: 2024-01-01
-venue: 'In Recchi E, and M Safi (Eds) Handbook of Human Mobility and Migration, Cheltenham: Edward Elgar Publishing'
+venue: 'Recchi E, and M Safi (Eds) Handbook of Human Mobility and Migration, Cheltenham: Edward Elgar Publishing'
 ---
 
 Book chapter co-authored with James Dennison (first author).
