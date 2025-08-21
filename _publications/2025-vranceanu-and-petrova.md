@@ -5,8 +5,9 @@ category: manuscripts
 permalink: /publication/2025-vranceanu-and-petrova
 date: 2025-03-09
 venue: 'European Journal of Political Research'
+paperurl: 'https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.70006'
 ---
 
 With Bilyana Petrova.
 
-Article available open access at: [https://doi.org/10.1080/01402382.2024.2424688](https://doi.org/10.1111/1475-6765.70006) 
+Blopost at ECPR’s Political Science Blog TheLoop: [see here](https://theloop.ecpr.eu/how-welfare-policy-affects-immigration-attitudes/).
