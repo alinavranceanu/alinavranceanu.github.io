@@ -7,4 +7,3 @@ date: 2017-08-31
 venue: 'Party Politics'
 paperurl: 'https://journals.sagepub.com/doi/10.1177/1354068817728215'
 ---
-Article available at: https://journals.sagepub.com/doi/10.1177/1354068817728215.
