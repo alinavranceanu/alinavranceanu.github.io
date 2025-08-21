@@ -7,4 +7,4 @@ date: 2018-12-06
 venue: 'Journal of Elections, Public Opinion and Parties'
 paperurl: 'https://doi.org/10.1080/17457289.2018.1554665'
 ---
-
+With Romain Lachat.
