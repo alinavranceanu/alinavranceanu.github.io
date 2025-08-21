@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Contextual Factors on Party Responsiveness Regarding Immigration Issues"
+title: "The impact of contextual factors on party responsiveness regarding immigration issues"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-Vranceanu-Party-Politics
