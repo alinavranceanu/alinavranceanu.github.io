@@ -3,7 +3,7 @@ title: "The European refugee crisis and public support for the externalisation o
 collection: publications
 category: manuscripts
 permalink: /publication/2023-Vranceanu-et-al-EJPR
-date: 2022-11-06
+date: 2023-01-01
 venue: 'European Journal of Political Research'
 paperurl: 'https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12565'
 ---
