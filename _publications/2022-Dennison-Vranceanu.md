@@ -2,7 +2,6 @@
 title: "Public Opinion and the Politics of Migration"
 collection: publications
 category: books
-permalink: /publication/2022-Dennison-Vranceanu
 date: 2022-01-01
 venue: 'Scholten P (Ed.) Introduction to Migration Studies. Springer (IMISCOE Research Series)'
 ---
