@@ -7,4 +7,4 @@ date: 2024-01-01
 venue: 'Recchi E and Safi M (Eds.) Handbook of Human Mobility and Migration. Cheltenham: Edward Elgar Publishing'
 ---
 
-Book chapter co-authored with James Dennison (first author).
+Co-authored with James Dennison (first author).
