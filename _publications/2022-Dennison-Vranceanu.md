@@ -3,6 +3,7 @@ title: "Public Opinion and the Politics of Migration"
 collection: publications
 category: books
 date: 2022-01-01
+permalink: /publication/2022-Vranceanu-WEP
 venue: 'Scholten P (Ed.) Introduction to Migration Studies. Springer (IMISCOE Research Series)'
 ---
 
