@@ -8,4 +8,4 @@ date: 2017-10-01
 location: "Barcelona, Spain"
 ---
 
-Seminar instructor (Fall terms).
+Seminar instructor (Fall term).
