@@ -8,4 +8,4 @@ venue: 'European Journal of Political Research'
 paperurl: 'https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12565'
 ---
 
-With Elias Dinas, Tobias Heidland, and Martin Ruhs.
+Co-authored with Elias Dinas, Tobias Heidland, and Martin Ruhs.
