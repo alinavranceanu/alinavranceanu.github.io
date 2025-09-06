@@ -8,13 +8,4 @@ date: 2023-10-01
 location: "Barcelona, Spain"
 ---
 
-Course instructor.
-
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
+Course instructor (Fall term).
