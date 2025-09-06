@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Alina Vrânceanu"
   pronouns         : # example: "she/her"  
-  bio              : "Political scientist at the Autonomous University of Barcelona"
-  location         : "Barcelona, Spain"
+  bio              : "Political scientist at the Autonomous University of Barcelona, Spain"
+  location         : # "Barcelona, Spain"
   employer         : # "Autonomous University of Barcelona"
   uri              : # URL
   email            : "alina.vranceanu@uab.cat" 
